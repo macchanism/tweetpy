@@ -13,3 +13,12 @@ develop Ubuntu commands for Twitter with Python
 
   * README.md
     - README
+
+## ブランチ
+  * master
+
+  * develop
+    - 開発用ブランチ
+
+  * release
+    - リリース用ブランチ
