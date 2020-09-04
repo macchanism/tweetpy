@@ -41,3 +41,24 @@ git add .
 git commit --amend
 git push origin develop
 ```
+
+  * `README.md`を修正
+
+```
+git add .
+git commit -m "modify README.md"
+git push origin develop
+```
+
+  * 以下のプログラムを作成
+    - config.py
+    - tweet.py
+    - viewtl.py
+
+  * README.mdを編集
+
+```
+git add .
+git commit -m "modify README.md"
+git push origin develop
+```
