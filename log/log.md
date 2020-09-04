@@ -33,3 +33,11 @@ git checkout develop
 git add .
 git commit -m "create develop branch"
 ```
+
+  * `log/`を`.gitignore`入りに
+
+```
+git add .
+git commit --amend
+git push origin develop
+```

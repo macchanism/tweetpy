@@ -9,6 +9,7 @@ develop Ubuntu commands for Twitter with Python
     - そのほか
 
   * log/
+    - ignore
     - 作業ログを記録する
 
   * README.md
